@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    font-size:60px;
+    color:purple;
+}
+a{
+    border:0px solid black;
+    padding:0px 25px;
+    background-color: lightblue;
+    font-size:30px;
+}
+body{
+    background-size:2300px ;
+    text-align:center;
+}
+img{
+    padding:30px;
+    margin:center;
+    width:350px;
+    height:533px;
+}
